@@ -6,7 +6,9 @@
     "type": "git",
     "url": "repo:four-bit-adder.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "relay-sim": "*"
+  },
   "devDependencies": {
     "should": "~1.1.0",
     "coffee-script": "~1.3.3",
